@@ -19,8 +19,8 @@ sudo cat /etc/shadow      # Show encrypted passwords (requires root)
 sudo cat /etc/passwd      # Show user account info
 
 # 🔹 System Update & Upgrade
-sudo apt-get update       # Update package lists from repositories
-sudo apt-get upgrade      # Upgrade installed packages to latest versions
+sudo apt update       # Update package lists from repositories
+sudo apt upgrade      # Upgrade installed packages to latest versions
 
 # 🔹 File & Directory Management
 ls                        # List files and directories
@@ -56,4 +56,4 @@ man command               # Show manual page for a command
 # 🔹 Experimentation & Customization
 sed 's/amal/Marwan/' Marwane.txt > new.txt  # Replace "amal" with "Marwan" in a file and save to new.txt
 nano ~/.bashrc            # Edit the current user's bash configuration
-source ~/.bashrc          # Reload bash settings immediately
+
