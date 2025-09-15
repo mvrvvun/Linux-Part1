@@ -1,4 +1,4 @@
-# 🐧 Learn Linux - Level 1 Cheat Sheet
+# 🐧 Learn Linux - Part 1 Cheat Sheet
 
 A concise **Linux command cheat sheet** for beginners and intermediate users covering essential terminal operations.
 
